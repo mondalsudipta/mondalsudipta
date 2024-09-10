@@ -2,7 +2,7 @@
 
 I am currently pursuing an M.Sc. in Computer Science and Engineering at BRAC University, building on a strong foundation from my bachelor's degree in the same field. Throughout my master's program, I have been focusing on machine learning, artificial intelligence, and natural language processing. I am currently involved in my master's research on self-supervised learning and have published a paper on social media sarcasm detection.
 
-*My Research Interest*:
+***My Research Interest***:
 My research primarily focuses on the intersection of machine learning, artificial intelligence, and natural language processing (NLP).
 
 *Key research areas are*:
