@@ -5,7 +5,7 @@ I am currently pursuing an M.Sc. in Computer Science and Engineering at BRAC Uni
 *My Research Interest*:
 My research primarily focuses on the intersection of machine learning, artificial intelligence, and natural language processing (NLP).
 
-Key research areas are:
+*Key research areas are*:
 - Machine Learning
 - Deep Learning
 - Computer Vision
