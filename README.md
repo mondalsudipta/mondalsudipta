@@ -10,6 +10,7 @@ My research primarily focuses on the intersection of machine learning, artificia
 - Deep Learning
 - Computer Vision
 - Natural Language Processing
+- Trustworthy AI
 - Self-Supervised Learning
 
  *I am open to*:
