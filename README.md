@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sudipta Mondal]() 👋
 
-I am currently pursuing an M.Sc. in Computer Science and Engineering at BRAC University, building on a strong foundation from my bachelor's degree in the same field. Throughout my master's program, I have been focusing on machine learning, artificial intelligence, and natural language processing. I am currently involved in my master's research on self-supervised learning and have published a paper on social media sarcasm detection.
+I am a PhD student in Computer Science at the University of Maryland, Baltimore County (UMBC), where I am a member of the Social Intelligence Lab. My research sits at the intersection of natural language processing and human-computer interaction, and I expect to graduate in 2030.
 
 ***My Research Interest***:
 My research primarily focuses on the intersection of machine learning, trustworthy AI, and natural language processing (NLP).
