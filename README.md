@@ -3,21 +3,19 @@
 I am a PhD student in Computer Science at the University of Maryland, Baltimore County (UMBC), where I am a member of the Social Intelligence Lab. My research sits at the intersection of natural language processing and human-computer interaction, and I expect to graduate in 2030.
 
 ***My Research Interest***:
-My research primarily focuses on the intersection of machine learning, trustworthy AI, and natural language processing (NLP).
+ I work at the intersection of NLP and Human-Computer Interaction.
 
 *Key research areas are*:
 - Natural Language Processing
-- Trustworthy AI
-- Self-Supervised Learning
-- Computer Vision
+- Human-Computer Interaction
 - Machine Learning
 - Deep Learning
 
  *I am open to*:
 
-- PhD opportunities,
+- Internship opportunities,
 - machine learning projects(development or research),
-- contributing to Machine Learning journals or conferences.
+- contributing to HCI journals or conferences.
 
 ## Skills:
 
