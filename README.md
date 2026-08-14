@@ -1,21 +1,35 @@
 ### Hi there, I'm [Sudipta Mondal]() 👋
 
-I am a PhD student in Computer Science at the University of Maryland, Baltimore County (UMBC), where I am a member of the Social Intelligence Lab. My research sits at the intersection of natural language processing and human-computer interaction, and I expect to graduate in 2030.
+I am a Ph.D. student in Computer Science at the University of Maryland, Baltimore County (UMBC), where I am a member of the Social Intelligence Lab. My research sits at the intersection of Human-Computer Interaction and Natural Language Processing, with a focus on Human-Centered AI and AI in Education. I am currently a Graduate Teaching Assistant for CMSC331 (Principles of Programming Languages).
 
 ***My Research Interest***:
- I work at the intersection of NLP and Human-Computer Interaction.
+Human-Centered AI, Human-Computer Interaction, Natural Language Processing, and AI in Education.
 
 *Key research areas are*:
-- Natural Language Processing
 - Human-Computer Interaction
-- Machine Learning
-- Deep Learning
+- Natural Language Processing
+- AI in Education
+- Machine Learning & Deep Learning
 
- *I am open to*:
+*Currently working on*:
+- Career decision-making challenges among undergraduate computer science students, using a mixed-methods approach combining a validated assessment with reflective prompts.
+- Analyzing student academic advising queries to uncover patterns and information gaps, toward designing an AI-assisted tool for faculty advisors.
+
+*I am open to*:
 
 - Internship opportunities,
-- machine learning projects(development or research),
-- contributing to HCI journals or conferences.
+- Machine learning projects (development or research),
+- Contributing to HCI journals or conferences.
+
+## Publications
+
+- Anan, R., Apon, T. S., Hossain, Z. T., Modhu, E. A., Mondal, S., & Alam, M. G. R. (2023). Interpretable Bangla Sarcasm Detection Using BERT and Explainable AI. *IEEE CCWC 2023*. [DOI](https://doi.org/10.1109/CCWC57344.2023.10099331)
+- Dohan, D. M., Prottush, N., Mondal, S., Choya, S. B. Z., & Alam, M. G. R. (2025). Customer Personality Analysis Using Machine Learning with Explainable AI. *IEEE ISDFS 2025*. [DOI](https://doi.org/10.1109/ISDFS65363.2025.11012007)
+- Islam, A., Rahman, S. A. S., Bhowmick, P., Rafi, I. A., Mondal, S., & Alam, G. R. (2025). A Smart Tutor Avatar for Mimicking Characters of Bangla Sign Language. *IEEE ICREST 2025*. [DOI](https://doi.org/10.1109/ICREST63960.2025.10914355)
+- Islam, A., Rafi, I. A., Mondal, S., Rahman, S. A. S., & Alam, G. R. (2025). Which Matters More: Model or Language? An Empirical Study in English-Bangla Mental Health Classification. *IEEE RAAI 2025*. [DOI](https://doi.org/10.1109/RAAI67517.2025.11423350)
+- Islam, A., Rafi, I. A., Rahman, S. A. S., Mondal, S., & Alam, M. G. R. (2025). Rice Leaf Disease Classification: A Comparative Evaluation of CNNs and Vision Transformers. *IEEE ICCIT 2025*. [DOI](https://doi.org/10.1109/ICCIT68739.2025.11490559)
+
+For the full and most current list, see my [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=AGgV_vcAAAAJ) profile.
 
 ## Skills:
 
@@ -29,6 +43,8 @@ I am a PhD student in Computer Science at the University of Maryland, Baltimore 
 #### ML/DL
 
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)&nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)&nbsp;
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)&nbsp;
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 ![Fast API](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)&nbsp;
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
@@ -46,6 +62,7 @@ I am a PhD student in Computer Science at the University of Maryland, Baltimore 
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
